@@ -1,0 +1,3 @@
+install package dependencies
+
+yarn add goals-todos-api redux react-redux redux-thunk
